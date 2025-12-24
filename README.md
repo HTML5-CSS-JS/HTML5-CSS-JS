@@ -1,6 +1,6 @@
 # Hi there(안녕하세요) 👋
 **I'm korean student(저는 한국인 학생입니다)**
-## He's have list & use
+## He's have list & use(r)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://i.namu.wiki/i/_2DRro1T6Y3To9pZEvuxmVanZdRGIpZYs3S5kjio5W5y2wtz3NCgn-Si2rzz1iSr28E2zGEqmPD6345xIuHVscC-boRUxcj5bJFtWktjj3fc-n3Sh20EA2lH9h6uK6UTooz5cKj2LFFl2PnntFLMf3JWYUCUv9nr5Bd1koFYQUk.svg">
